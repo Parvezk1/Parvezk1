@@ -1,3 +1,4 @@
+![logo](https://github.com/Parvezk1/Parvezk1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parvez Khan</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
 
